@@ -9,7 +9,7 @@ Hello! I am Maryam Asadi, an aspiring Web3 Developer. Here are some of my projec
 
 ## Projects
 
-- **Voting Smart Contract**: [GitHub Repository](#)
+- **Voting Smart Contract**: [GitHub Repository](https://github.com/maryasad/Solidity/blob/master/Voting.sol)
 - **Simple DAO Example**: [GitHub Repository](#)
 
 ## Skills

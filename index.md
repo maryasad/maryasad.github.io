@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to My Web3 Developer Portfolio
 
-Hello! I am [Your Name], an aspiring Web3 Developer. Here are some of my projects and skills.
+Hello! I am Maryam Asadi, an aspiring Web3 Developer. Here are some of my projects and skills.
 
 ## Projects
 

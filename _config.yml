@@ -1,6 +1,6 @@
-# theme: minima
-# title: Hi! I'm Maryam, Web3 Developer!
-# description: I'm an expert in databases and programming, currently transitioning to a career in Web3 development. I am deeply interested in blockchain technology, smart contracts, DAOs, and all aspects of Web3. My passion lies in developing innovative and secure decentralized applications, utilizing the advancements in Web3 technology.
-# remote_theme: pages-themes/minimal@v0.2.0
-# plugins:
-#   - jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: minima
+title: Hi! I'm Maryam, Web3 Developer!
+description: I'm an expert in databases and programming, currently transitioning to a career in Web3 development. I am deeply interested in blockchain technology, smart contracts, DAOs, and all aspects of Web3. My passion lies in developing innovative and secure decentralized applications, leveraging the advancements in Web3 technology.
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one

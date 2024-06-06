@@ -10,13 +10,10 @@ title: Home
 
 # Skills
 
-- **Smart Contracts**: Solidity
-- **Cryptography**: Hashing, Digital Signatures
-- **Blockchain Platforms**: Ethereum, Binance Smart Chain
-
-# Coursework
-
-- Completed courses on Web3 development, Solidity, and cryptography.
+- **Smart Contracts**: Proficient in developing and deploying smart contracts on blockchain platforms, with a focus on security, efficiency, and functionality within decentralized applications.
+- **Foundry**:Proficient in utilizing Foundry as a preferred toolchain for decentralized application development.
+- **Cryptography**: Proficient in cryptography, with a deep understanding of cryptographic principles and techniques, including encryption, hashing, digital signatures, and cryptographic protocols.
+- **DAO**: Knowledgeable in the principles and implementation of DAOs, including governance models and smart contract integration, within the context of Web3 applications.
 
 # Contact
 

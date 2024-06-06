@@ -3,10 +3,9 @@ layout: default
 title: Home
 ---
 
-# Maryam Asadi Portfolio
+# Hi! I'm Maryam,
 
-Hi! I'm Maryam,  
-Web3 Developer.
+# Web3 Developer
 
 ## Projects
 

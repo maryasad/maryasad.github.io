@@ -3,13 +3,14 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Web3 Developer Portfolio
+# Maryam Asadi Portfolio
 
-Hello! I am Maryam Asadi, an aspiring Web3 Developer. Here are some of my projects and skills.
+Hi! I'm Maryam,  
+Web3 Developer.
 
 ## Projects
 
-- **Voting Smart Contract**: [GitHub Repository](https://github.com/maryasad/Solidity/blob/master/Voting.sol)
+- **Voting Smart Contract**: [GitHub Repository](https://github.com/maryasad/Foundry/tree/main/foundry-voting)
 - **Simple DAO Example**: [GitHub Repository](#)
 
 ## Skills

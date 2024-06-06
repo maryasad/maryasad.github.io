@@ -3,11 +3,7 @@ layout: default
 title: Home
 ---
 
-# Hi! I'm Maryam,
-
-# Web3 Developer
-
-## Projects
+# Projects
 
 - **Voting Smart Contract**: [GitHub Repository](https://github.com/maryasad/Foundry/tree/main/foundry-voting)
 - **Simple DAO Example**: [GitHub Repository](#)
@@ -24,5 +20,5 @@ title: Home
 
 ## Contact
 
-- [LinkedIn](#)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/maryam-asadi-92b49350/)
+- [Email](asady.maryam@yahoo.com)

@@ -11,7 +11,6 @@ title: Home
 ## Skills
 
 - **Smart Contracts:** Skilled in developing and deploying smart contracts on blockchain platforms, with a focus on security, efficiency, and functionality. Experience includes writing and deploying contracts on test networks and local nodes.
-- **Foundry:** Proficient in utilizing Foundry as a preferred toolchain.
 - **Cryptography:** Strong understanding of cryptographic principles and techniques, including encryption, hashing, digital signatures, and cryptographic protocols.
 - **DAO:** Knowledgeable in the principles and implementation of DAOs, including governance models and smart contract integration within the context of Web3 applications.
 - **Development Tools:** Familiar with Truffle, HardHat, and other Web3 toolchains, with a preference for Foundry.

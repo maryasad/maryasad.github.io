@@ -14,7 +14,7 @@ title: Home
 - **Cryptography:** Strong understanding of cryptographic principles and techniques, including encryption, hashing, digital signatures, and cryptographic protocols.
 - **DAO:** Knowledgeable in the principles and implementation of DAOs, including governance models and smart contract integration within the context of Web3 applications.
 - **Development Tools:** Familiar with Truffle, HardHat, and other Web3 toolchains, with a preference for Foundry.
-- **Programming Languages:** Proficient in Go, Rust, and Solidity, with a focus on smart contract development in Solidity.
+- **Programming Languages:** Proficient in Go, Rust, and Solidity, with a focus on Solidity.
 
 ## Contact
 

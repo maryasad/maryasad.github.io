@@ -1,6 +1,6 @@
 theme: minima
-title: Hi! I'm Maryam
-description: Web3 Developer
+title: Hi! I'm Maryam, Web3 Developer!
+description: I'm an expert in relational, NoSQL, and distributed databases, now transitioning to a career in Web3 development. I'm passionate about blockchain technology, smart contracts, and the decentralized web. With my strong database background, I'm excited to create innovative and secure decentralized applications, shaping the future of Web3.
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one

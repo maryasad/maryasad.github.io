@@ -6,7 +6,7 @@ title: Home
 ## Projects
 
 - **Voting Smart Contract:** [GitHub Repository](https://github.com/maryasad/Foundry/tree/main/foundry-voting)
-- **Simple DAO Example:** [GitHub Repository](#)
+- **Simple DAO Example:** [GitHub Repository](https://github.com/maryasad/DAOProject)
 
 ## Skills
 

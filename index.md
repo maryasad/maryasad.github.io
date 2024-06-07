@@ -7,7 +7,7 @@ title: Home
 
 - **Voting Smart Contract:** [GitHub Repository](https://github.com/maryasad/Foundry/tree/main/foundry-voting)
 - **Simple DAO Example:** [GitHub Repository](https://github.com/maryasad/DAOProject)
-
+- **SimpleStorage:** [GitHub Repository](https://github.com/maryasad/Foundry/tree/main/SimpleStorage)
 ## Skills
 
 - **Smart Contracts:** Skilled in developing and deploying smart contracts on blockchain platforms, with a focus on security, efficiency, and functionality. Experience includes writing and deploying contracts on test networks and local nodes.

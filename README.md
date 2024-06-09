@@ -1,6 +1,6 @@
 # Hi! I'm Maryam, Web3 Developer
 
-I'm an expert in databases and programming, currently transitioning to a career in Web3 development. I am deeply interested in blockchain technology, smart contracts, DAOs, and all aspects of Web3. My passion lies in developing innovative and secure decentralized applications, leveraging the advancements in Web3 technology.
+With a strong foundation in software engineering, I have actively expanded my expertise to include blockchain technology, smart contracts, and various aspects of Web3.
 
 ## View My GitHub Portfolio
 

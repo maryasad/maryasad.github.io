@@ -1,17 +1,4 @@
-# Hi there! 👋
-I’m a data engineer, software developer, and database specialist with a passion for AI. I focus on building scalable data platforms and creating efficient, innovative solutions. Right now, I’m working on a healthcare data warehouse, using SQL and Python to streamline data processes, optimize database performance, and improve import/export workflows. I’m also deeply interested in exploring AI technologies to push the boundaries of app development and grow my skill set.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/maryam-asadi-92b49350/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:asady.ma@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/maryasad">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
 
 ## 🔧 Technologies & Tools
 
